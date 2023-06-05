@@ -32,13 +32,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/desktop-design.jpg)
+![](./images/favicon.svg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [see solution URL here](https://github.com/gladstone28/manage-landing-page)
+- Live Site URL: [see live site URL here](https://gladstone28.github.io/manage-landing-page/)
 
 ## My process
 
@@ -56,7 +56,7 @@ Users should be able to:
 
 ### What I learned
 
-This was a very difficutlt challenge to solve.
+I learned to use vite. Also improved on my experience using figma
 
 To see how you can add code snippets, see below:
 
