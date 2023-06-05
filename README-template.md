@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/favicon.svg)
+![](./images/logo.svg)
 
 
 ### Links
